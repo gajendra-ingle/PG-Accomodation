@@ -39,7 +39,7 @@
 
 <div>
     <h3>⚡️Conclusion</h3>
-    <p> &nbsp This website provides a web portal that is a Paying Guest Accommodation System which will benefit the student as well as the parents.<br>
+    <p align="justify"> &nbsp This website provides a web portal that is a Paying Guest Accommodation System which will benefit the student as well as the parents.<br>
  &nbsp It makes entire process online where student and parents can search room online just by few click. It also has a facility for admin login where admin can login and can see status of flats and room issued as well change there status or given some suggestionsnecess. It has a facility of services form where anyone can search for their accommodation and also a suggestion page is there where  necessary suggestion to the portal can be made and a mesmerizing collection of pictures so that the overview of the campus can be collected.<br>
 &nbsp Overall this website will help the student as well as parents and will make management of the accommodation very easy very easy.
 </p>
