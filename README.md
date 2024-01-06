@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<p>&nbsp As the name specifies “PAYING GUEST ACCOMODATION SYSTEM” is a software developed for managing various activities in the PG.</p>
+<p>&nbsp As the name specifies “PAYING GUEST ACCOMMODATION SYSTEM” is a software developed for managing various activities in the PG.</p>
 </div>
 
 <div>
